@@ -1,0 +1,18 @@
+name: torsion
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - coverage
+  - rdkit=2019.03.3
+  - python=3.7
+  - pytest
+  - xtb=6.3.2
+  - jupyter
+  - py3dmol
+  - networkx
+  - ipywidgets
+  - ipycytoscape
+  - ipython-sql
+  - altair
