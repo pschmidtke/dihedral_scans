@@ -1,0 +1,18 @@
+name: torsionoff
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - coverage
+  - rdkit
+  - python=3.7
+  - pytest
+  - jupyter
+  - py3dmol
+  - networkx
+  - ipywidgets
+  - ipycytoscape
+  - ipython-sql
+  - altair
+  - openforcefield
